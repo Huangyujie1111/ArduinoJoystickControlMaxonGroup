@@ -1,0 +1,3 @@
+﻿  TwoGroup.cpp
+D:\桌面文件\MaxonMotor_Joystick_Arduino\PortnameAndKeyhandTest\GetPortnameAndKeyhand\include\Definitions.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  GetPortnameAndKeyhand.vcxproj -> D:\桌面文件\MaxonMotor_Joystick_Arduino\PortnameAndKeyhandTest\GetPortnameAndKeyhand\x64\Debug\GetPortnameAndKeyhand.exe
